@@ -1,12 +1,13 @@
-<h1 align="center">Привет, я <a href="https://t.me/Annamarka/" target="_blank"> Анна </a> 
+<h1 align="center">Привет, я <a href="https://t.me/Annamarka/" target="_blank"> Анна </a>
   :wave:
-
+<h4  align="center"> WhatsApp: 79035246064 <h4>
+<h4  align="center"> mail: russtroi_anna@mail.ru <h4>
   
 <h4> * Аналитик данных, пришедший в профессию из корпоративных финансов<h4>
 <h4> * Работая в финансах, я привыкла видеть суть за цифрами<h4>
 <h4> * Умею и люблю работать с большими объемами информации, аналитически мыслить, творчески подходить к выполнению задач<h4>
 
-Навыки:
+Languages and tools:
 1. Программирования на языке Python:
 - извлечение, обработка, исследование и анализ данных с помощью Pandas, NumPy, SciPy, StatsModels
 - визуализация данных с помощью Matplotlib, Seaborn, Plotly;
