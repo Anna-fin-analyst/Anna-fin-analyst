@@ -13,6 +13,12 @@
 
   ## 🛠 Languages and tools:
 
+<img height=100 width=70 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" /> <img height=100 width=80 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img height=100 width=120 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" /> <img height=80 width=180 alt="image" src="https://github.com/user-attachments/assets/4d3f8847-db7d-4e54-b5f3-9213278ba1e7"> <img height=50 width=90 alt="image" src="https://github.com/user-attachments/assets/98f17b6d-ccfc-4cb2-a269-485c2eeee1db">
+  
+<img height=70 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pandas/pandas-original-wordmark.svg" />  <img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/numpy/numpy-original-wordmark.svg" />
+<img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/matplotlib/matplotlib-original-wordmark.svg" />
+<img height=100 width=100 src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/plotly/plotly-original-wordmark.svg" />
+
 
   ## Практические навыки:
 1. Программирования на языке Python:
